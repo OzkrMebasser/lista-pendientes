@@ -39,7 +39,6 @@ const TaskText = styled.p`
     color:#000;
     font-size:1.5rem;
     font-family: 'Roboto', 'sans-serif';
-    font-family: 'Caveat', 'cursive';
     text-decoration:${({ done }) => done ? 'line-through' : 'none'};
 `
 
