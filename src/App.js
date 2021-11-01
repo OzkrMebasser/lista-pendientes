@@ -10,7 +10,7 @@ const GlobalSyle = createGlobalStyle`
     body{
         
         font-family: 'Roboto', 'sans-serif';
-        font-size: 1.2rem;
+        font-size: 1rem;
         background-image: url('https://images.unsplash.com/photo-1558051815-0f18e64e6280?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1469&q=80');
         color:${allColors.mainColor};
         text-align: center;
